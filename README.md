@@ -1,5 +1,3 @@
-# ecom-analytics-platform
-
 # AI-Powered ECOM BI Sales Platform (GCP POC)
 
 An end-to-end, serverless data pipeline that automates the ingestion of daily sales CSVs from email into **BigQuery**, cleanses the data using a **Medallion Architecture**, and provides an **AI Chatbot** interface for natural language business intelligence.
