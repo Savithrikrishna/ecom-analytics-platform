@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-google-vertexai
+langchain-community
+langchain-experimental
+sqlalchemy
+sqlalchemy-bigquery
+google-cloud-bigquery
