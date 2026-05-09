@@ -13,6 +13,9 @@ The system follows a serverless, event-driven design on **Google Cloud Platform*
 3.  **Transformation**: The Cloud Function loads raw data into the **Bronze Layer** and executes SQL logic to deduplicate and standardize data into the **Silver Layer**.
 4.  **Analytics**: A **Streamlit** web app utilizes **LangChain** and **Gemini 2.5 Flash** to translate English questions into SQL queries against the Silver Layer.
 
+   <img width="1336" height="1510" alt="image" src="https://github.com/user-attachments/assets/53477007-c079-4bb7-9f27-b4ea1a4e36db" />
+
+
 ---
 
 ## Project Structure
