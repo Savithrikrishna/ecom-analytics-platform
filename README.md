@@ -57,13 +57,13 @@ gcloud auth application-default login
 
 3. Running the Chatbot Locally
 
-# Navigate to the chatbot directory
+### Navigate to the chatbot directory
 ```cd chatbot```
 
-# Install dependencies
+### Install dependencies
 ```pip install -r requirements.txt```
 
-# Start Streamlit
+### Start Streamlit
 ```python3 -m streamlit run chatbot.py --server.enableCORS=false --server.enableXsrfProtection=false```
 
 
