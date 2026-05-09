@@ -15,7 +15,7 @@ The system follows a serverless, event-driven design on **Google Cloud Platform*
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ecom-analytics-platform/
